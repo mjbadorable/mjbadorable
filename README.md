@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://website-portfolio-rho-amber.vercel.app/">
-  <img src="./header.svg" width="100%" alt="Marvin Jhay Adorable Banner" />
+  <img src="./header.svg?v=2" width="100%" alt="Marvin Jhay Adorable Banner" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=34D399&center=true&vCenter=true&width=780&lines=Building+resilient+web+tools+and+automated+systems.;Eliminating+operational+friction+across+LMS%2C+ERP%2C+and+AI+workflows.;Deterministic+guardrails+on+every+AI+workflow+I+ship." alt="Typing SVG" />
